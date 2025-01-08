@@ -2,6 +2,6 @@ Hello, world!
 
 Hello, again!
 
-Another change.
+Another change, made on the copy version.
 
 One more change, then new file I promise.

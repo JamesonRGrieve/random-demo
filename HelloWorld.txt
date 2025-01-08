@@ -3,5 +3,7 @@ Hello, world!
 Hello, again!
 
 Another change, made on the main version.
+Another change, made on the copy version.
+Merged all happy-like. :)
 
 One more change, then new file I promise.
